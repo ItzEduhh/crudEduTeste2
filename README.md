@@ -12,7 +12,7 @@
 
 - Rodar servidor embutido do php (utilizar url APP_URL do .env)
 
-| php -S localhost:8001 -t public
+| php vendor/bin/phinx migrate --dry-run
 
 - Executar migração de dados
 
