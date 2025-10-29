@@ -19,3 +19,13 @@
 | Linux: vendor/bin/phinx migrate
 
 | Windows: php vendor/bin/phinx migrate
+
+1-Routes (routes.php)
+2-Controller (ProductController > CategoryController)
+3-Migrations ()
+4-Repository (ProductRepository > CategoryRepository)
+5-Model(product > category)
+6-Service (ProductService > CategoryService)
+7-Duplicar (Views/admin> products > categories)
+8-Controller (views)
+9-Views(alterar)

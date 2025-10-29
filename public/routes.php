@@ -2,6 +2,7 @@
 
 use App\Controllers\Admin\AdminController;
 use App\Controllers\Admin\ProductController;
+use App\Controllers\Admin\CategoryController;
 use App\Controllers\AuthController;
 use App\Controllers\SiteController;
 use Symfony\Component\HttpFoundation\Request;
